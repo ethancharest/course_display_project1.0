@@ -1,5 +1,5 @@
 # CSC417 Project 1 - Course Display
-# Ethan Charest
+### Ethan Charest
 ## How to Run
 
 1. Install dependencies:
